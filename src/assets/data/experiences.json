@@ -8,13 +8,7 @@
         "website": "http://www.faciltecnologias.com.br/",
         "logo": "assets/template/experience/logo/facil-logo.png",
         "internationalizations": [
-            {
-                "language": "pt",
-                "city": "Uberaba",
-                "country": "Brasil",
-                "role": "Estágio Webmaster",
-                "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
-            },
+            
             {
                 "language": "en",
                 "city": "Uberaba",
@@ -44,13 +38,7 @@
         "website": "https://www.e-tatica.com/",
         "logo": "assets/template/experience/logo/etatica-logo.png",
         "internationalizations": [
-            {
-                "language": "pt",
-                "city": "Rio de Janeiro",
-                "country": "Brasil",
-                "role": "Desenvolvedor Full-stack",
-                "description": "A <b>E-tática</b> é uma agência especializada em soluções para <i>comércio eletrônico</i>, marketing digital e identidade visual desde 2008, trabalhando com grandes, pequenos e médios negócios, oferecendo para seus clientes, o know-how na integração de seus negócios com <i>Sistemas integrados de gestão empresarial (ERP)</i> e <i>APIs de terceiros</i>, tais como <i>provedores de pagamento personalizados</i>, fazendo a integração do gerenciamento interno da plataforma on-line e da loja física, sendo certificada pelas principais plataformas do mercado.<br><br>Na <i>E-tática </i>, trabalhei para desenvolver soluções personalizadas para clientes do atacado e varejo, valorizando a qualidade e a continuidade dos projetos a médio e longo prazo."
-            },
+            
             {
                 "language": "en",
                 "city": "Rio de Janeiro",
@@ -90,13 +78,7 @@
         "website": "http://deevo.com.br/",
         "logo": "assets/template/experience/logo/deevo-logo.png",
         "internationalizations": [
-            {
-                "language": "pt",
-                "city": "São Paulo",
-                "country": "Brasil",
-                "role": "Desenvolvedor Mobile",
-                "description": "A <b>Deevo Studio</b> é uma agência especializada em <i>web design</i> e <i>desenvolvimento</i> com um extenso portfólio de casos de sucesso, resultado de mais de <i>20 anos</i> de experiência com diversas agências e no mercado corporativo. Suas criações envolvem tudo, desde o desenvolvimento da marca e identidade visual, até a criação de aplicativos e sites, com um amplo conhecimento do Wordpress e das tecnologias da web. <br><br>Na <i>Deevo Studio</i>, tive a chance de usar o conhecimento anterior de <i>back-end</i> combinado com a experiência prática no desenvolvimento JAVA para aceitar o desafio de iniciar um <i>Departamento de Desenvolvimento Android</i> na empresa, fornecendo complexos <i>Aplicativos Android</i> para empresas no Brasil."
-            },
+            
             {
                 "language": "en",
                 "city": "São Paulo",
@@ -125,13 +107,7 @@
         "companyName": "Skydreamer",
         "logo": "assets/template/experience/logo/skydreamer-logo.png",
         "internationalizations": [
-            {
-                "language": "pt",
-                "city": "Utrecht",
-                "country": "Países Baixos",
-                "role": "Desenvolvedor Full-stack",
-                "description": "Na <b>Skydreamer Startup</b>, fui convidado para fazer parte da equipe de desenvolvimento do primeiro aplicativo móvel europeu que transformaria o planejamento de viagens entre amigos em um <i>Jogo de Swipe & Match</i>, oferecendo milhares de destinos em todo o mundo. Sempre com as melhores ofertas de voos, hotéis e apartamentos.<br><br>Na <i>Skydreamer</i>, tive a incrível experiência de vivenciar um <i> ambiente de startup</i>, os prós e os contras , expandindo minha mente de como liderar com o gerenciamento remoto, com prazos curtos e recursos muito limitados. Em setembro de 2017, com a versão <i>Beta</i> em execução e com vários usuários reais, fomos até a <i>TechCrunch Disrupt<i> em São Francisco, onde recebemos uma oferta de uma agência internacional de esportes e entretenimento."
-            },
+            
             {
                 "language": "en",
                 "city": "Utrecht",
@@ -166,13 +142,7 @@
         "website": "https://www.qat.com/",
         "logo": "assets/template/experience/logo/qat-global-logo.png",
         "internationalizations": [
-            {
-                "language": "pt",
-                "city": "Uberaba",
-                "country": "Brasil",
-                "role": "Engenheiro de Software",
-                "description": "Na <b>QAT Global</b>, eu estava encarregado de ser o <i>Pod Leader</i> de back-end, trabalhando com <i>Big Data Analysis</i> para o maior fornecedor americano de tecnologia de água, que tem negócios em mais de <i>150 países</i>, permitindo que clientes em todo o mundo transportem, tratem, testem e usem água de maneira eficiente em instalações de utilidade pública, residencial, comercial, agrícola e industrial.<br><br>Na <i>QAT Global</i>, assegurei de que todos os desenvolvedores aplicassem as melhores práticas e padrões necessários para um aplicativo corporativo de <i>alta disponibilidade</i>, melhorando não apenas minhas habilidades técnicas, mas também as habilidades interpessoais."
-            },
+           
             {
                 "language": "en",
                 "city": "Uberaba",
@@ -211,13 +181,7 @@
         "website": "https://www.swisscom.ch/",
         "logo": "assets/template/experience/logo/swisscom-logo.png",
         "internationalizations": [
-            {
-                "language": "pt",
-                "city": "Rotterdão",
-                "country": "Países Baixos",
-                "role": "Engenheiro Full-stack",
-                "description": "<b>Swisscom</b> é a empresa <b>#1</b> de telecomunicações e uma das principais empresas de TI da Suíça. Seus produtos e serviços variam de soluções B2C, como a Swisscom TV, a soluções de TI B2B em vários setores, como Bancos, Saúde, Energia, Entretenimento e Publicidade.<br><br>Na <i>Swisscom DevOps Center</i>, inovação e experimentação estão profundamente enraizadas no DNA da empresa. O ambiente multicultural com 15 nacionalidades, somado à cultura de <i>Tribos/Esquadrões</i>, contribui para colocar nós, funcionários, como parte de uma equipe virtual internacional, especializada em DevOps, entre várias outras tecnologias de ponta."
-            },
+            
             {
                 "language": "en",
                 "city": "Rotterdam",

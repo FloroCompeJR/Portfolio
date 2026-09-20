@@ -12,10 +12,7 @@
       "i18n": {
         "sourceLocale": "en-US",
         "locales": {
-          "pt": {
-            "translation": "src/locales/messages.pt.xlf",
-            "baseHref": ""
-          },
+         
           "en": {
             "translation": "src/locales/messages.en.xlf",
             "baseHref": ""
@@ -80,15 +77,7 @@
               "baseHref": "/en/",
               "i18nMissingTranslation": "error"
             },
-            "pt": {
-              "aot": true,
-              "localize": [
-                "pt"
-              ],
-              "outputPath": "dist/pt/",
-              "baseHref": "/pt/",
-              "i18nMissingTranslation": "error"
-            },
+           
             "es5": {
               "tsConfig": "./tsconfig.es5.json"
             }
@@ -106,9 +95,7 @@
             "en": {
               "browserTarget": "live-resume:build:en"
             },
-            "pt": {
-              "browserTarget": "live-resume:build:pt"
-            },
+
             "es5": {
               "browserTarget": "live-resume:build:es5"
             }

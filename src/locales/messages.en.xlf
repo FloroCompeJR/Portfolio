@@ -93,8 +93,8 @@
         <note priority="1" from="description">contact</note>
       </trans-unit>
       <trans-unit id="emailPlaceholder" datatype="html">
-        <source>mark@gmail.com</source>
-        <target>mark@gmail.com</target>
+        <source>jhun@gmail.com</source>
+        <target>jhun@gmail.com</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">23</context>
@@ -102,8 +102,8 @@
         <note priority="1" from="description">contact</note>
       </trans-unit>
       <trans-unit id="namePlaceholder" datatype="html">
-        <source>Mark</source>
-        <target>Mark</target>
+        <source>jhun</source>
+        <target>jhun</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">20</context>
