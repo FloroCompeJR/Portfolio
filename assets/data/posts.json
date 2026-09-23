@@ -1,0 +1,74 @@
+[
+    {
+        "thumbnail": "assets/certifications/sample-certificate.png",
+        "http": "https://example.com/verify/sample-1",
+        "date": "01-01-2026",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Certification 1 - Title Here",
+                "description": "Issued by Organization. Replace with a short description of what this certification covers."
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/certifications/sample-certificate1.png",
+        "http": "https://example.com/verify/sample-2",
+        "date": "02-01-2026",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Certification 2 - Title Here",
+                "description": "Issued by Organization. Replace with a short description of what this certification covers."
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/certifications/sample-certificate2.png",
+        "http": "https://example.com/verify/sample-3",
+        "date": "03-01-2026",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Certification 3 - Title Here",
+                "description": "Issued by Organization. Replace with a short description of what this certification covers."
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/certifications/sample-certificate3.png",
+        "http": "https://example.com/verify/sample-4",
+        "date": "04-01-2026",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Certification 4 - Title Here",
+                "description": "Issued by Organization. Replace with a short description of what this certification covers."
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/certifications/sample-certificate4.png",
+        "http": "https://example.com/verify/sample-5",
+        "date": "05-01-2026",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Certification 5 - Title Here",
+                "description": "Issued by Organization. Replace with a short description of what this certification covers."
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/certifications/sample-certificate5.png",
+        "http": "https://example.com/verify/sample-6",
+        "date": "06-01-2026",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Certification 6 - Title Here",
+                "description": "Issued by Organization. Replace with a short description of what this certification covers."
+            }
+        ]
+    }
+]
